@@ -2,9 +2,7 @@
   "name": "easy-richmarker",
   "version": "0.0.1",
   "homepage": "https://github.com/adrianchen19888/bower-richmarker",
-  "authors": [
-    "adrian chen <adrian.evangelion@gmail.com>"
-  ],
+  "authors": [],
   "description": "Bower package for Google Map Utility Library richmarker",
   "main": "src/richmarker.js",
   "keywords": [
